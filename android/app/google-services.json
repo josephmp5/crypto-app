@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "283064743170",
+    "project_id": "crypto-e0746",
+    "storage_bucket": "crypto-e0746.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283064743170:android:8dbb96f3a33c2f1eb83e1b",
+        "android_client_info": {
+          "package_name": "com.example.emmi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283064743170-ujcmf105fqsal3861788c2kaq517oesk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.emmi",
+            "certificate_hash": "7e63b8e100cca6e0dab55b84bee98ce3a66e7aa7"
+          }
+        },
+        {
+          "client_id": "283064743170-294dlri8s3ahu9vrilgbs5h3420kgm6l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzDwS5ak3USwR1PsEduBQfokqAEbxEWsc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283064743170-294dlri8s3ahu9vrilgbs5h3420kgm6l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
