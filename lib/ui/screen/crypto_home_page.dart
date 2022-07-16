@@ -3,7 +3,6 @@ import 'dart:convert';
 import 'package:http/http.dart' as http;
 import 'package:flutter/material.dart';
 import 'package:emmi/ui/component.dart';
-import 'package:emmi/ui/screen/detail_wallet.dart';
 import 'package:emmi/constants/apiservice.dart';
 
 
@@ -61,6 +60,8 @@ class _CryptoHomePageState extends State<CryptoHomePage> {
                         myProfit: '\$ ${snapshot.data[index]["high_24h"]}',
                         precent: snapshot.data[index]["price_change_percentage_24h"],
                       ),
+
+                      
                     ],
                   ),
                 ),
